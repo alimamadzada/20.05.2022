@@ -1,0 +1,55 @@
+input {
+    width: 100%;
+    border: 2px solid #6e6e6e;
+    height: 45px;
+    border-radius: 6px;
+    margin: 5px;
+}
+
+form {
+    text-align: center;
+}
+
+.form-content {
+    width: 100%;
+}
+
+img {
+    width: 120px;
+    margin: 35px;
+}
+
+button {
+    border: none;
+    border-radius: 26px;
+    width: 250px !important;
+    height: 45px;
+    margin: 30px;
+    color: white;
+    background-color: #198754;
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+
+button:hover {
+    border: none;
+    border-radius: 26px;
+    height: 45px;
+    margin: 30px;
+    width: 20%;
+    color: gainsboro;
+    background-color: #096d23;
+}
+
+button:active {
+    border: none;
+    border-radius: 26px;
+    height: 45px;
+    margin: 30px;
+    width: 20%;
+    color: white;
+    background-color: #044f18;
+}
+
+
+/*# sourceMappingURL=main.css.map */
